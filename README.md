@@ -18,6 +18,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD3](td03_enonce.ipynb)| Les bases de Python | :white_check_mark: |
 | [TD4](td04_enonce.ipynb)| Les fonctions et NUMPY | :white_check_mark: |
 | [TD5](td05_enonce.ipynb)| Matplotlib, Dictionnaires et Pandas | :white_check_mark: |
+| [TD6](td06_enonce.ipynb)| Logique, flux de contrôle et boucles | :white_check_mark: |
 
 ## Crédits
 
